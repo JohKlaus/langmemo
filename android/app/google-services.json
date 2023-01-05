@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101112274809",
+    "project_id": "floshelloworld",
+    "storage_bucket": "floshelloworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101112274809:android:07ab23c869a90acef4d9a8",
+        "android_client_info": {
+          "package_name": "com.flosheoloworld1.de"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101112274809-djbpqp83knqtuhs1k6quodc1ij98okui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIBqVlQ46zWgcHdkiP_Yb9-GuuKoO1MnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101112274809-djbpqp83knqtuhs1k6quodc1ij98okui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
